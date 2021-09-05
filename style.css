@@ -1,0 +1,50 @@
+.header {
+    background-color: #e3f2fd;
+}
+
+img {
+    width: 50px;
+}
+
+nav ol {
+    background-color: #e9ecef;
+}
+/* .nav ul li a{
+    color: #b3bec7;
+} */
+.nav ul li a:first-child{
+color: #575e61;
+}
+.bton {
+    border: 1px solid #59bb75 !important;
+    color: #59bb75;
+}
+
+.bton:hover {
+    background-color: #59bb75;
+}
+
+.alert {
+    background-color: #d4edda;
+}
+
+.h-500 {
+    height: 500px !important;
+}
+
+.right {
+    text-align: center;
+}
+
+.sesa {
+    text-align:center;
+}
+
+footer {
+    background-color: #17a2b8;
+
+}
+
+.footer p {
+    margin-bottom: 0;
+}
